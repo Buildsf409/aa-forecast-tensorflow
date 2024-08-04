@@ -1,4 +1,4 @@
-# N-BEATS TensorFlow
+# AA-Forecast TensorFlow
 
 TensorFlow implementation of univariate time series forecasting model introduced in *European machine learning and data mining conference.*
 AA-Forecast: Anomaly-Aware Forecast for Extreme Events
